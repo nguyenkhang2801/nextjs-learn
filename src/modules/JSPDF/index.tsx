@@ -1,8 +1,8 @@
 'use client';
 
+import html2canvas from 'html2canvas';
 import jsPDF from 'jspdf';
 import { data } from './data';
-import html2canvas from 'html2canvas';
 
 const JSPDF = () => {
   const renderPdf = () => {
