@@ -1,152 +1,152 @@
-number,name_jp,name_en
-#001,fushigidane - fushigidane (フシギダネ),bulbasaur
-#002,fushigisou - fushigisou (フシギソウ),ivysaur
-#003,fushigibana - fushigibana (フシギバナ),venusaur
-#004,hitokage - hitokage (ヒトカゲ),charmander
-#005,lizardo - rizaado (リザード),charmeleon
-#006,lizardon - rizaadon (リザードン),charizard
-#007,zenigame - zenigame (ゼニガメ),squirtle
-#008,kameil - kameeru (カメール),wartortle
-#009,kamex - kamekkusu (カメックス),blastoise
-#010,caterpie - kyatapii (キャタピー),caterpie
-#011,trancell - toranseru (トランセル),metapod
-#012,butterfree - batafurii (バタフリー),butterfree
-#013,beedle - biidoru (ビードル),weedle
-#014,cocoon - kokuun (コクーン),kakuna
-#015,spear - supiaa (スピアー),beedrill
-#016,poppo - poppo (ポッポ),pidgey
-#017,pigeon - pijon (ピジョン),pidgeotto
-#018,pigeot - pijotto (ピジョット),pidgeot
-#019,koratta - koratta (コラッタ),rattata
-#020,ratta - ratta (ラッタ),raticate
-#021,onisuzume - onisuzume (オニスズメ),spearow
-#022,onidrill - onidoriru (オニドリル),fearow
-#023,arbo - aabo (アーボ),ekans
-#024,arbok - aabokku (アーボック),arbok
-#025,pikachu - pikachuu (ピカチュウ),pikachu
-#026,raichu - raichuu (ライチュウ),raichu
-#027,sand - sando (サンド),sandshrew
-#028,sandpan - sandopan (サンドパン),sandslash
-#029,nidoran♀ - nidoran (ニドラン♀),nidoran-f
-#030,nidorina - nidoriina (ニドリーナ),nidorina
-#031,nidoqueen - nidokuin (ニドクイン),nidoqueen
-#032,nidoran♂ - nidoran (ニドラン♂),nidoran-m
-#033,nidorino - nidoriino (ニドリーノ),nidorino
-#034,nidoking - nidokingu (ニドキング),nidoking
-#035,pippi - pippi (ピッピ),clefairy
-#036,pixy - pikushii (ピクシー),clefable
-#037,rokon - rokon (ロコン),vulpix
-#038,kyukon - kyuukon (キュウコン),ninetales
-#039,purin - purin (プリン),jigglypuff
-#040,pukurin - pukurin (プクリン),wigglytuff
-#041,zubat - zubatto (ズバット),zubat
-#042,golbat - gorubatto (ゴルバット),golbat
-#043,nazonokusa - nazonokusa (ナゾノクサ),oddish
-#044,kusaihana - kusaihana (クサイハナ),gloom
-#045,ruffresia - rafureshia (ラフレシア),vileplume
-#046,paras - parasu (パラス),paras
-#047,parasect - parasekuto (パラセクト),parasect
-#048,konpan - konpan (コンパン),venonat
-#049,morphon - morufon (モルフォン),venomoth
-#050,digda - diguda (ディグダ),diglett
-#051,dugtrio - dagutorio (ダグトリオ),dugtrio
-#052,nyarth - nyaasu (ニャース),meowth
-#053,persian - perushian (ペルシアン),persian
-#054,kodack - kodakku (コダック),psyduck
-#055,golduck - gorudakku (ゴルダック),golduck
-#056,mankey - mankii (マンキー),mankey
-#057,okorizaru - okorizaru (オコリザル),primeape
-#058,gardie - gaadi (ガーディ),growlithe
-#059,windie - uindi (ウインディ),arcanine
-#060,nyoromo - nyoromo (ニョロモ),poliwag
-#061,nyorozo - nyorozo (ニョロゾ),poliwhirl
-#062,nyorobon - nyorobon (ニョロボン),poliwrath
-#063,casey - keeshii (ケーシィ),abra
-#064,yungerer - yungeraa (ユンゲラー),kadabra
-#065,foodin - fuudin (フーディン),alakazam
-#066,wanriky - wanrikii (ワンリキー),machop
-#067,goriky - goorikii (ゴーリキー),machoke
-#068,kairiky - kairikii (カイリキー),machamp
-#069,madatsubomi - madatsubomi (マダツボミ),bellsprout
-#070,utsudon - utsudon (ウツドン),weepinbell
-#071,utsubot - utsubotto (ウツボット),victreebel
-#072,menokurage - menokurage (メノクラゲ),tentacool
-#073,dokukurage - dokukurage (ドククラゲ),tentacruel
-#074,ishitsubute - ishitsubute (イシツブテ),geodude
-#075,goroone - goroon (ゴローン),graveler
-#076,golonya - goroonya (ゴローニャ),golem
-#077,ponyta - poniita (ポニータ),ponyta
-#078,gallop - gyaroppu (ギャロップ),rapidash
-#079,yadon - yadon (ヤドン),slowpoke
-#080,yadoran - yadoran (ヤドラン),slowbro
-#081,coil - koiru (コイル),magnemite
-#082,rarecoil - reakoiru (レアコイル),magneton
-#083,kamonegi - kamonegi (カモネギ),farfetchd
-#084,dodo - doodoo (ドードー),doduo
-#085,dodorio - doodorio (ドードリオ),dodrio
-#086,pawou - pauwau (パウワウ),seel
-#087,jugon - jugon (ジュゴン),dewgong
-#088,betbeter - betobetaa (ベトベター),grimer
-#089,betbeton - betobeton (ベトベトン),muk
-#090,shellder - sherudaa (シェルダー),shellder
-#091,parshen - parushen (パルシェン),cloyster
-#092,ghos - goosu (ゴース),gastly
-#093,ghost - goosuto (ゴースト),haunter
-#094,gengar - gengaa (ゲンガー),gengar
-#095,iwark - iwaaku (イワーク),onix
-#096,sleep - suriipu (スリープ),drowzee
-#097,sleeper - suriipaa (スリーパー),hypno
-#098,crab - kurabu (クラブ),krabby
-#099,kingler - kinguraa (キングラー),kingler
-#100,biriridama - biriridama (ビリリダマ),voltorb
-#101,marumine - marumain (マルマイン),electrode
-#102,tamatama - tamatama (タマタマ),exeggcute
-#103,nasshi - nasshii (ナッシー),exeggutor
-#104,karakara - karakara (カラカラ),cubone
-#105,garagara - garagara (ガラガラ),marowak
-#106,sawamular - sawamuraa (サワムラー),hitmonlee
-#107,ebiwalar - ebiwaraa (エビワラー),hitmonchan
-#108,beroringa - beroringa (ベロリンガ),lickitung
-#109,dogars - dogaasu (ドガース),koffing
-#110,matadogas - matadogasu (マタドガス),weezing
-#111,saihorn - saihoon (サイホーン),rhyhorn
-#112,saidon - saidon (サイドン),rhydon
-#113,lucky - rakkii (ラッキー),chansey
-#114,monjara - monjara (モンジャラ),tangela
-#115,garura - garuura (ガルーラ),kangaskhan
-#116,tattsuu - tattsuu (タッツー),horsea
-#117,seadra - shiidora (シードラ),seadra
-#118,tosakinto - tosakinto (トサキント),goldeen
-#119,azumaou - azumaou (アズマオウ),seaking
-#120,hitodeman - hitodeman (ヒトデマン),staryu
-#121,starmie - sutaamii (スターミー),starmie
-#122,bariyaado - bariyaado (バリヤード),mr-mime
-#123,strike - sutoraiku (ストライク),scyther
-#124,rougela - ruujura (ルージュラ),jynx
-#125,eleboo - erebuu (エレブー),electabuzz
-#126,booba - buubaa (ブーバー),magmar
-#127,kailios - kairosu (カイロス),pinsir
-#128,kentauros - kentarosu (ケンタロス),tauros
-#129,koiking - koikingu (コイキング),magikarp
-#130,gyarados - gyaradosu (ギャラドス),gyarados
-#131,laplace - rapurasu (ラプラス),lapras
-#132,metamon - metamon (メタモン),ditto
-#133,eievui - iibui (イーブイ),eevee
-#134,showers - shawaazu (シャワーズ),vaporeon
-#135,thunders - sandaasu (サンダース),jolteon
-#136,booster - buusutaa (ブースター),flareon
-#137,porygon - porigon (ポリゴン),porygon
-#138,omnite - omunaito (オムナイト),omanyte
-#139,omstar - omusutaa (オムスター),omastar
-#140,kabuto - kabuto (カブト),kabuto
-#141,kabutops - kabutopusu (カブトプス),kabutops
-#142,ptera - putera (プテラ),aerodactyl
-#143,kabigon - kabigon (カビゴン),snorlax
-#144,freezer - furiizaa (フリーザー),articuno
-#145,thunder - sandaa (サンダー),zapdos
-#146,fire - faiyaa (ファイヤー),moltres
-#147,miniryu - miniryuu (ミニリュウ),dratini
-#148,hakuryu - hakuryuu (ハクリュー),dragonair
-#149,kairyu - kairyuu (カイリュー),dragonite
-#150,mewtwo - myuutsuu (ミュウツー),mewtwo
-#151,mew - myuu (ミュウ),mew
+number|name_jp|name_en|region|mean|speech
+#001|fushigidane - fushigidane (フシギダネ)|bulbasaur|kanto|Phu-shi-gi-đa-ne, được ghép từ "fushigi" nghĩa là kỳ diệu, và "tane" là hạt giống, khi kết hợp lại nghe giống một câu "Kỳ diệu thật nhỉ?".|Phu si ghi đa nê, được ghép từ phu si ghi nghĩa là kỳ diệu, và ta nê là hạt giống, khi kết hợp lại nghe giống một câu Kỳ diệu thật nhỉ?.
+#002|fushigisou - fushigisou (フシギソウ)|ivysaur|kanto|Phu-shi-gi-so-u, được ghép từ "fushigi" nghĩa là kỳ diệu, và "sou" là cỏ, khi kết hợp lại nghe giống một câu "Trông có vẻ kỳ diệu".|Phu si ghi sô u, được ghép từ phu si ghi nghĩa là kỳ diệu, và sô u là cỏ, khi kết hợp lại nghe giống một câu Trông có vẻ kỳ diệu.
+#003|fushigibana - fushigibana (フシギバナ)|venusaur|kanto|Phu-shi-gi-ba-na, được ghép từ "fushigi" nghĩa là kỳ diệu, và "hana" là hoa, kết hợp thành "hoa Kỳ Diệu".|Phu si ghi ba na, được ghép từ phu si ghi nghĩa là kỳ diệu, và ha na là hoa, kết hợp thành hoa Kỳ Diệu.
+#004|hitokage - hitokage (ヒトカゲ)|charmander|kanto|Hi-to-ka-ge, được ghép từ "hi" nghĩa là lửa, và "tokage" là thằn lằn, khi kết hợp lại nghe giống Hitokage là tên của kỳ nhông lửa Salamander trong thần thoại.|Hi tô ca ghê, được ghép từ hi nghĩa là lửa, và tô ca ghê là thằn lằn, khi kết hợp lại nghe giống hi tô ca ghê là tên của kỳ nhông lửa Salamander trong thần thoại.
+#005|lizardo - rizaado (リザード)|charmeleon|kanto|Ri-za-a-đo, kết hợp thành "thằn Lằn", phiên âm từ Lizard.|Ri za a đo, kết hợp thành thằn Lằn, phiên âm từ Lizard.
+#006|lizardon - rizaadon (リザードン)|charizard|kanto|Ri-za-a-đo-n, từ "lizard" nghĩa là thằn lằn, kết hợp thành "rồng Lửa".|Ri za a đo n, từ li za r d nghĩa là thằn lằn, kết hợp thành rồng Lửa.
+#007|zenigame - zenigame (ゼニガメ)|squirtle|kanto|Ze-ni-ga-me, được ghép từ "zeni" nghĩa là tiền xu, và "kame" là rùa, khi kết hợp lại nghe giống Zenigame là tên của loài rùa ao Nhật Bản, mai của chúng trông giống như những đồng xu c....|Dze ni ga mê, được ghép từ dze ni nghĩa là tiền xu, và ca mê là rùa, khi kết hợp lại nghe giống dze ni ga mê là tên của loài rùa ao Nhật Bản, mai của chúng trông giống như những đồng xu c....
+#008|kameil - kameeru (カメール)|wartortle|kanto|Ka-me-e-ru, được ghép từ "kame" nghĩa là rùa, và "tail" là đuôi, kết hợp thành "rùa Đuôi Dài".|Ca mê ê ru, được ghép từ ca mê nghĩa là rùa, và ta i l là đuôi, kết hợp thành rùa Đuôi Dài.
+#009|kamex - kamekkusu (カメックス)|blastoise|kanto|Ka-me-k-ku-su, được ghép từ "kame" nghĩa là rùa, và "max" là cực đại, kết hợp thành "rùa Tối Thượng".|Ca mê k cu su, được ghép từ ca mê nghĩa là rùa, và ma x là cực đại, kết hợp thành rùa Tối Thượng.
+#010|caterpie - kyatapii (キャタピー)|caterpie|kanto|Kya-ta-pi-i, kết hợp thành "sâu Bướm", phiên âm từ Caterpillar + hậu tố -pi là cách gọi thân mật thường dùng cho trẻ con hoặc thú cưng.|Kia ta pi i, kết hợp thành sâu Bướm, phiên âm từ Caterpillar + hậu tố -pi là cách gọi thân mật thường dùng cho trẻ con hoặc thú cưng.
+#011|trancell - toranseru (トランセル)|metapod|kanto|To-ra-n-se-ru, được ghép từ "transform" nghĩa là biến đổi, và "shell" là lớp vỏ, khi kết hợp lại nghe giống chơi chữ với từ Randsel, ám chỉ hình dáng cứng cáp và hơ....|Tô ra n sê ru, được ghép từ t ra n s pho r m nghĩa là biến đổi, và s hê hê l là lớp vỏ, khi kết hợp lại nghe giống chơi chữ với từ Randsel, ám chỉ hình dáng cứng cáp và hơ....
+#012|butterfree - batafurii (バタフリー)|butterfree|kanto|Ba-ta-phu-ri-i, được ghép từ "butterfly" nghĩa là bướm, và "free" là tự do, khi kết hợp lại nghe giống chơi chữ với Patapata và Furu.|Ba ta phu ri i, được ghép từ bu bu tê r f ly nghĩa là bướm, và f rê ê là tự do, khi kết hợp lại nghe giống chơi chữ với Patapata và Furu.
+#013|beedle - biidoru (ビードル)|weedle|kanto|Bi-i-đo-ru, được ghép từ "bee" nghĩa là ong, và "needle" là kim châm, kết hợp thành "sâu Kim Châm".|Bi i đo ru, được ghép từ bê ê nghĩa là ong, và nê ê d le là kim châm, kết hợp thành sâu ki m Châm.
+#014|cocoon - kokuun (コクーン)|kakuna|kanto|Ko-ku-u-n, kết hợp thành "con Kén".|Cô cu u n, kết hợp thành con Kén.
+#015|spear - supiaa (スピアー)|beedrill|kanto|Su-pi-aa, kết hợp thành "ngọn Giáo".|Su pi aa, kết hợp thành ngọn Giáo.
+#016|poppo - poppo (ポッポ)|pidgey|kanto|Po-p-po, từ "poppo" nghĩa là gù gù, kết hợp thành "chim Gù Gù".|Pô p pô, từ pô pô pô nghĩa là gù gù, kết hợp thành chim Gù Gù.
+#017|pigeon - pijon (ピジョン)|pidgeotto|kanto|Pi-jo-n, kết hợp thành "chim Bồ Câu".|Pi giô n, kết hợp thành chim Bồ Câu.
+#018|pigeot - pijotto (ピジョット)|pidgeot|kanto|Pi-jo-t-to, được ghép từ "pigeon" nghĩa là chim bồ câu, và "jet" là máy bay phản lực, kết hợp thành "bồ Câu Phản Lực".|Pi giô t tô, được ghép từ pi ghê ô n nghĩa là chim bồ câu, và je t là máy bay phản lực, kết hợp thành bồ Câu Phản Lực.
+#019|koratta - koratta (コラッタ)|rattata|kanto|Ko-ra-t-ta, được ghép từ "ko" nghĩa là nhỏ, và "rat" là chuột cống, kết hợp thành "chuột Con".|Cô ra t ta, được ghép từ cô nghĩa là nhỏ, và ra t là chuột cống, kết hợp thành chuột co n.
+#020|ratta - ratta (ラッタ)|raticate|kanto|Ra-t-ta, kết hợp thành "chuột Cống", phiên âm từ Rat.|Ra t ta, kết hợp thành chuột Cống, phiên âm từ Rat.
+#021|onisuzume - onisuzume (オニスズメ)|spearow|kanto|O-ni-su-zu-me, được ghép từ "oni" nghĩa là quỷ, và "suzume" là chim sẻ, kết hợp thành "chim Sẻ Quỷ".|Ô ni su zu mê, được ghép từ ô ni nghĩa là quỷ, và su zu mê là chim sẻ, kết hợp thành chim Sẻ Quỷ.
+#022|onidrill - onidoriru (オニドリル)|fearow|kanto|O-ni-đo-ri-ru, được ghép từ "oni" nghĩa là quỷ, và "tori" là chim, kết hợp thành "chim Sẻ Mũi Khoan".|Ô ni đo ri ru, được ghép từ ô ni nghĩa là quỷ, và tô ri là chim, kết hợp thành chim Sẻ Mũi k hô a n.
+#023|arbo - aabo (アーボ)|ekans|kanto|Aa-bo, kết hợp thành "trăn Siết Mồi", Arbo là đảo ngược của từ Boa.|Aa bô, kết hợp thành trăn Siết Mồi, a r bô là đảo ngược của từ Boa.
+#024|arbok - aabokku (アーボック)|arbok|kanto|Aa-bo-k-ku, kết hợp thành "rắn Hổ Mang", Arbok là đảo ngược của từ Cobra và thay chữ "c" bằng chữ "k".|Aa bô k cu, kết hợp thành rắn Hổ ma n g, a r bô k là đảo ngược của từ Cobra và thay chữ c bằng chữ k.
+#025|pikachu - pikachuu (ピカチュウ)|pikachu|kanto|Pi-ka-chu-u, được ghép từ "pikapika" nghĩa là lấp lánh, và "chuuchuu" là chít chít, kết hợp thành "chuột Phát Sáng".|Pi ca chu u, được ghép từ pi ca pi ca nghĩa là lấp lánh, và chu u chu u là chít chít, kết hợp thành chuột Phát Sáng.
+#026|raichu - raichuu (ライチュウ)|raichu|kanto|Ra-i-chu-u, được ghép từ "rai" nghĩa là sấm sét, và "chuuchuu" là chít chít, kết hợp thành "chuột Sấm Sét".|Ra i chu u, được ghép từ ra i nghĩa là sấm sét, và chu u chu u là chít chít, kết hợp thành chuột Sấm Sét.
+#027|sand - sando (サンド)|sandshrew|kanto|Sa-n-đo, kết hợp thành "cát".|Sa n đo, kết hợp thành cát.
+#028|sandpan - sandopan (サンドパン)|sandslash|kanto|Sa-n-đo-pa-n, được ghép từ "sand" nghĩa là cát, và "pangolin" là tê tê, kết hợp thành "tê Tê Cát".|Sa n đo pa n, được ghép từ sa n d nghĩa là cát, và pa n gô li n là tê tê, kết hợp thành tê Tê Cát.
+#029|nidoran♀ - nidoran (ニドラン♀)|nidoran-f|kanto|Ni-đo-ra-n, được ghép từ "needle" nghĩa là kim châm, và "rabbit" là thỏ, khi kết hợp lại nghe giống Nido còn có thể hiểu là "hai lần", ám chỉ loài này có hai giới tính riêng biệt, được lặ....|Ni đo ra n, được ghép từ nê ê d le nghĩa là kim châm, và ra ra bi t là thỏ, khi kết hợp lại nghe giống ni đô còn có thể hiểu là hai lần, ám chỉ loài này có hai giới tính riêng biệt, được lặ....
+#030|nidorina - nidoriina (ニドリーナ)|nidorina|kanto|Ni-đo-ri-i-na, được ghép từ "needle" nghĩa là kim châm, và "rhinoceros" là tê giác, kết hợp thành "tê Giác Kim Châm Cái".|Ni đo ri i na, được ghép từ nê ê d le nghĩa là kim châm, và r hi nô ce rô s là tê giác, kết hợp thành tê Giác ki m Châm Cái.
+#031|nidoqueen - nidokuin (ニドクイン)|nidoqueen|kanto|Ni-đo-ku-i-n, được ghép từ "needle" nghĩa là kim châm, và "queen" là nữ hoàng, kết hợp thành "nữ Hoàng Kim Châm".|Ni đo cu i n, được ghép từ nê ê d le nghĩa là kim châm, và qu ee n là nữ hoàng, kết hợp thành nữ Hoàng ki m Châm.
+#032|nidoran♂ - nidoran (ニドラン♂)|nidoran-m|kanto|Ni-đo-ra-n, được ghép từ "needle" nghĩa là kim châm, và "rabbit" là thỏ, khi kết hợp lại nghe giống Nido còn có thể hiểu là "hai lần", ám chỉ loài này có hai giới tính riêng biệt, được lặ....|Ni đo ra n, được ghép từ nê ê d le nghĩa là kim châm, và ra ra bi t là thỏ, khi kết hợp lại nghe giống ni đô còn có thể hiểu là hai lần, ám chỉ loài này có hai giới tính riêng biệt, được lặ....
+#033|nidorino - nidoriino (ニドリーノ)|nidorino|kanto|Ni-đo-ri-i-no, được ghép từ "needle" nghĩa là kim châm, và "rhinoceros" là tê giác, kết hợp thành "tê Giác Kim Châm Đực".|Ni đo ri i nô, được ghép từ nê ê d le nghĩa là kim châm, và r hi nô ce rô s là tê giác, kết hợp thành tê Giác ki m Châm Đực.
+#034|nidoking - nidokingu (ニドキング)|nidoking|kanto|Ni-đo-ki-n-gu, được ghép từ "needle" nghĩa là kim châm, và "king" là vua, kết hợp thành "vua Kim Châm".|Ni đo ki n gu, được ghép từ nê ê d le nghĩa là kim châm, và ki n g là vua, kết hợp thành vua ki m Châm.
+#035|pippi - pippi (ピッピ)|clefairy|kanto|Pi-p-pi, kết hợp thành "tiểu Tiểu Tiên", lặp lại âm tiết đầu của từ Pixie.|Pi p pi, kết hợp thành tiểu Tiểu Tiên, lặp lại âm tiết đầu của từ pi xi ê.
+#036|pixy - pikushii (ピクシー)|clefable|kanto|Pi-ku-shi-i, kết hợp thành "tiểu Tiên", Tiểu tiên, cùng cách đọc nhưng khác cách viết.|Pi cu si i, kết hợp thành tiểu Tiên, Tiểu tiên, cùng cách đọc nhưng khác cách viết.
+#037|rokon - rokon (ロコン)|vulpix|kanto|Ro-ko-n, được ghép từ "roku" nghĩa là sáu, và "konkon" là khẹt khẹt, khi kết hợp lại nghe giống Kon còn có thể hiểu là "sự oán hận".|Rô cô n, được ghép từ rô cu nghĩa là sáu, và cô n cô n là khẹt khẹt, khi kết hợp lại nghe giống cô n còn có thể hiểu là sự oán hận.
+#038|kyukon - kyuukon (キュウコン)|ninetales|kanto|Kyu-u-ko-n, được ghép từ "kyuu" nghĩa là chín, và "konkon" là khẹt khẹt, khi kết hợp lại nghe giống Kyukon còn có thể hiểu là "mối thù cũ".|Kiu u cô n, được ghép từ kiu u nghĩa là chín, và cô n cô n là khẹt khẹt, khi kết hợp lại nghe giống kiu cô n còn có thể hiểu là mối thù cũ.
+#039|purin - purin (プリン)|jigglypuff|kanto|Pu-ri-n, từ "purin" nghĩa là bánh pudding, kết hợp thành "pudding".|Pu ri n, từ pu ri n nghĩa là bánh pudding, kết hợp thành pu pu đi n g.
+#040|pukurin - pukurin (プクリン)|wigglytuff|kanto|Pu-ku-ri-n, được ghép từ "pukupuku" nghĩa là phúng phính, và "purin" là bánh pudding, kết hợp thành "pudding Phúng Phính".|Pu cu ri n, được ghép từ pu cu pu cu nghĩa là phúng phính, và pu ri n là bánh pudding, kết hợp thành pudding Phúng Phính.
+#041|zubat - zubatto (ズバット)|zubat|kanto|Zu-ba-t-to, được ghép từ "zubatto" nghĩa là xoẹt xoẹt, và "bat" là dơi, khi kết hợp lại nghe giống tên Zubat trùng với siêu anh hùng trong loạt phim Kaiketsu Zubat nổi tiếng năm 1977.|Zu ba t tô, được ghép từ zu ba ba tô nghĩa là xoẹt xoẹt, và ba t là dơi, khi kết hợp lại nghe giống tên zu ba t trùng với siêu anh hùng trong loạt phim ca i kê xu zu ba t nổi tiếng năm 1977.
+#042|golbat - gorubatto (ゴルバット)|golbat|kanto|Go-ru-ba-t-to, được ghép từ "gulp" nghĩa là ngấu nghiến, và "ghoul" là ngạ quỷ, kết hợp thành "dơi Khát Máu".|Gô ru ba t tô, được ghép từ gu l p nghĩa là ngấu nghiến, và g hô u l là ngạ quỷ, kết hợp thành dơi Khát Máu.
+#043|nazonokusa - nazonokusa (ナゾノクサ)|oddish|kanto|Na-zo-no-ku-sa, được ghép từ "nazo" nghĩa là bí ẩn, và "kusa" là cỏ, kết hợp thành "cỏ Bí Ẩn".|Na dô nô cu sa, được ghép từ na dô nghĩa là bí ẩn, và cu sa là cỏ, kết hợp thành cỏ Bí Ẩn.
+#044|kusaihana - kusaihana (クサイハナ)|gloom|kanto|Ku-sa-i-ha-na, được ghép từ "kusai" nghĩa là hôi thối, và "hana" là hoa, kết hợp thành "hoa Hôi Thối".|Cu sa i ha na, được ghép từ cu sa i nghĩa là hôi thối, và ha na là hoa, kết hợp thành hoa Hôi Thối.
+#045|ruffresia - rafureshia (ラフレシア)|vileplume|kanto|Ra-phu-re-shi-a, kết hợp thành "hoa Xác Thối", Hoa xác thối, cùng cách đọc nhưng khác cách viết.|Ra phu rê si a, kết hợp thành hoa Xác Thối, hô a xác thối, cùng cách đọc nhưng khác cách viết.
+#046|paras - parasu (パラス)|paras|kanto|Pa-ra-su, kết hợp thành "ký Sinh Trùng", rút gọn của từ Parasite.|Pa ra su, kết hợp thành ký si n h Trùng, rút gọn của từ pa ra si tê.
+#047|parasect - parasekuto (パラセクト)|parasect|kanto|Pa-ra-se-ku-to, được ghép từ "parasite" nghĩa là ký sinh trùng, và "insect" là côn trùng, kết hợp thành "côn Trùng Ký Sinh".|Pa ra sê cu tô, được ghép từ pa ra si tê nghĩa là ký sinh trùng, và i n sê c t là côn trùng, kết hợp thành côn Trùng Ký si n h.
+#048|konpan - konpan (コンパン)|venonat|kanto|Ko-n-pa-n, từ "konchuu" nghĩa là côn trùng, kết hợp thành "côn Trùng Mắt Kép".|Cô n pa n, từ cô n chu u nghĩa là côn trùng, kết hợp thành côn Trùng Mắt Kép.
+#049|morphon - morufon (モルフォン)|venomoth|kanto|Mo-ru-pho-n, được ghép từ "morphon" nghĩa là bướm morpho, và "metamorphosis" là lột xác, kết hợp thành "bướm Lột Xác".|Mô ru pho n, được ghép từ mô r p hô n nghĩa là bướm morpho, và mê ta mô r p hô si s là lột xác, kết hợp thành bướm Lột Xác.
+#050|digda - diguda (ディグダ)|diglett|kanto|Đi-gu-đa, được ghép từ "dig" nghĩa là đào đất, và "dug" là quá khứ của từ dig, khi kết hợp lại nghe giống tên Digda được lấy cảm hứng từ game thùng "Dig Dug" phát hành năm 1982 của Namco, nơi n....|Đi gu đa, được ghép từ đi g nghĩa là đào đất, và đu g là quá khứ của từ dig, khi kết hợp lại nghe giống tên đi g đa được lấy cảm hứng từ game thùng đi g đu g phát hành năm 1982 của na m co, nơi n....
+#051|dugtrio - dagutorio (ダグトリオ)|dugtrio|kanto|Đa-gu-to-ri-o, được ghép từ "dug" nghĩa là quá khứ của từ dig, và "trio" là bộ ba, kết hợp thành "ba Đầu Đào Đất".|Đa gu tô ri ô, được ghép từ đu g nghĩa là quá khứ của từ dig, và t ri ô là bộ ba, kết hợp thành ba Đầu Đào Đất.
+#052|nyarth - nyaasu (ニャース)|meowth|kanto|Nya-a-su, kết hợp thành "mèo Thần Tài", Meo meo + Concept đồng xu trên trán.|Nya a su, kết hợp thành mèo Thần Tài, mê ô meo + co n ce p t đồng xu trên trán.
+#053|persian - perushian (ペルシアン)|persian|kanto|Pe-ru-shi-a-n, kết hợp thành "mèo Ba Tư".|Pê ru si a n, kết hợp thành mèo Ba Tư.
+#054|kodack - kodakku (コダック)|psyduck|kanto|Ko-đa-k-ku, được ghép từ "ko" nghĩa là nhỏ, và "duck" là vịt, kết hợp thành "vịt Con".|Cô đa k cu, được ghép từ cô nghĩa là nhỏ, và đu c k là vịt, kết hợp thành vịt co n.
+#055|golduck - gorudakku (ゴルダック)|golduck|kanto|Go-ru-đa-k-ku, được ghép từ "gold" nghĩa là vàng, và "duck" là vịt, kết hợp thành "vịt Vàng".|Gô ru đa k cu, được ghép từ gô l d nghĩa là vàng, và đu c k là vịt, kết hợp thành vịt Vàng.
+#056|mankey - mankii (マンキー)|mankey|kanto|Ma-n-ki-i, được ghép từ "monkey" nghĩa là khỉ, và "mad" là điên tiết, khi kết hợp lại nghe giống Mankey còn dựa trên concept Yankee (đầu gấu, bất lương) ở Nhật Bản.|Ma n ki i, được ghép từ mô n kê y nghĩa là khỉ, và ma d là điên tiết, khi kết hợp lại nghe giống ma n kê y còn dựa trên concept gia n kê ê (đầu gấu, bất lương) ở Nhật Bản.
+#057|okorizaru - okorizaru (オコリザル)|primeape|kanto|O-ko-ri-za-ru, được ghép từ "okori" nghĩa là nổi giận, và "saru" là khỉ, kết hợp thành "khỉ Nổi Cáu".|Ô cô ri za ru, được ghép từ ô cô ri nghĩa là nổi giận, và sa ru là khỉ, kết hợp thành khỉ Nổi Cáu.
+#058|gardie - gaadi (ガーディ)|growlithe|kanto|Ga-a-đi, từ "guardian" nghĩa là hộ vệ, kết hợp thành "chó Hộ Vệ".|Ga a đi, từ gu a r đi a n nghĩa là hộ vệ, kết hợp thành chó Hộ Vệ.
+#059|windie - uindi (ウインディ)|arcanine|kanto|Ui-n-đi, kết hợp thành "chó Lướt Gió", Phiên âm từ Windy, nhấn mạnh tốc độ di chuyển cực nhanh.|Ui n đi, kết hợp thành chó Lướt Gió, Phiên âm từ wi n dy, nhấn mạnh tốc độ di chuyển cực nhanh.
+#060|nyoromo - nyoromo (ニョロモ)|poliwag|kanto|Nyo-ro-mo, được ghép từ "nyoronyoro" nghĩa là ngoằn ngoèo, và "kodomo" là đứa trẻ, kết hợp thành "bé Ngoằn Ngoèo".|Nyo rô mô, được ghép từ nyo rô nyo rô nghĩa là ngoằn ngoèo, và cô đô mô là đứa trẻ, kết hợp thành bé Ngoằn Ngoèo.
+#061|nyorozo - nyorozo (ニョロゾ)|poliwhirl|kanto|Nyo-ro-zo, được ghép từ "nyoronyoro" nghĩa là ngoằn ngoèo, và "kozou" là nhóc con, kết hợp thành "nhóc Ngoằn Ngoèo".|Nyo rô dô, được ghép từ nyo rô nyo rô nghĩa là ngoằn ngoèo, và cô dô u là nhóc con, kết hợp thành nhóc Ngoằn Ngoèo.
+#062|nyorobon - nyorobon (ニョロボン)|poliwrath|kanto|Nyo-ro-bo-n, được ghép từ "nyoronyoro" nghĩa là ngoằn ngoèo, và "bon" là cậu ấm, kết hợp thành "gã Ngoằn Ngoèo".|Nyo rô bô n, được ghép từ nyo rô nyo rô nghĩa là ngoằn ngoèo, và bô n là cậu ấm, kết hợp thành gã Ngoằn Ngoèo.
+#063|casey - keeshii (ケーシィ)|abra|kanto|Ke-e-shi-i, kết hợp thành "nhà Tiên Tri".|Kê ê si i, kết hợp thành nhà Tiên t ri.
+#064|yungerer - yungeraa (ユンゲラー)|kadabra|kanto|Yu-n-ge-ra-a, kết hợp thành "nhà Ngoại Cảm".|Giu n ghê ra a, kết hợp thành nhà Ngoại Cảm.
+#065|foodin - fuudin (フーディン)|alakazam|kanto|Phu-u-đi-n, kết hợp thành "ảo Thuật Gia".|Phu u đi n, kết hợp thành ảo Thuật ghi a.
+#066|wanriky - wanrikii (ワンリキー)|machop|kanto|Wa-n-ri-ki-i, được ghép từ "wan" nghĩa là cánh tay, và "wanryoku" là sức mạnh => lực cánh tay, kết hợp thành "sức Mạnh Cánh Tay".|Oa n ri ki i, được ghép từ oa n nghĩa là cánh tay, và oa n ryo cu là sức mạnh => lực cánh tay, kết hợp thành sức Mạnh Cánh ta y.
+#067|goriky - goorikii (ゴーリキー)|machoke|kanto|Go-o-ri-ki-i, từ "gouriki" nghĩa là sức mạnh phi thường, kết hợp thành "sức Mạnh Phi Thường".|Gô ô ri ki i, từ gô u ri ki nghĩa là sức mạnh phi thường, kết hợp thành sức Mạnh p hi Thường.
+#068|kairiky - kairikii (カイリキー)|machamp|kanto|Ka-i-ri-ki-i, từ "kairiki" nghĩa là sức mạnh siêu phàm, kết hợp thành "sức Mạnh Siêu Phàm".|Ca i ri ki i, từ ca i ri ki nghĩa là sức mạnh siêu phàm, kết hợp thành sức Mạnh Siêu Phàm.
+#069|madatsubomi - madatsubomi (マダツボミ)|bellsprout|kanto|Ma-đa-tsu-bo-mi, từ "mada" nghĩa là vẫn còn là, kết hợp thành "bé Nụ Hoa".|Ma đa xu bô mi, từ ma đa nghĩa là vẫn còn là, kết hợp thành bé Nụ hô a.
+#070|utsudon - utsudon (ウツドン)|weepinbell|kanto|U-tsu-đo-n, được ghép từ "utsubokazura" nghĩa là cây nắp ấm, và "utsu" là phiền muộn, kết hợp thành "nắp Ấm U Sầu".|U xu đo n, được ghép từ u xu bô ca zu ra nghĩa là cây nắp ấm, và u xu là phiền muộn, kết hợp thành nắp Ấm U Sầu.
+#071|utsubot - utsubotto (ウツボット)|victreebel|kanto|U-tsu-bo-t-to, được ghép từ "utsubokazura" nghĩa là cây nắp ấm, và "pot" là bình, kết hợp thành "bình Nắp Ấm".|U xu bô t tô, được ghép từ u xu bô ca zu ra nghĩa là cây nắp ấm, và pô t là bình, kết hợp thành bình Nắp Ấm.
+#072|menokurage - menokurage (メノクラゲ)|tentacool|kanto|Me-no-ku-ra-ge, từ "kurage" nghĩa là sứa, kết hợp thành "sứa Độc Nhãn".|Mê nô cu ra ghê, từ cu ra ghê nghĩa là sứa, kết hợp thành sứa Độc Nhãn.
+#073|dokukurage - dokukurage (ドククラゲ)|tentacruel|kanto|Đo-ku-ku-ra-ge, được ghép từ "doku" nghĩa là chất độc, và "kurage" là sứa, kết hợp thành "sứa Độc Tố".|Đo cu cu ra ghê, được ghép từ đô cu nghĩa là chất độc, và cu ra ghê là sứa, kết hợp thành sứa Độc Tố.
+#074|ishitsubute - ishitsubute (イシツブテ)|geodude|kanto|I-shi-tsu-bu-te, được ghép từ "ishi" nghĩa là đá, và "tsubute" là ném, kết hợp thành "đá Ném".|I si xu bu tê, được ghép từ i si nghĩa là đá, và xu bu tê là ném, kết hợp thành đá Ném.
+#075|goroone - goroon (ゴローン)|graveler|kanto|Go-ro-o-n, được ghép từ "goron-goron" nghĩa là lăn lông lốc, và "stone" là hòn đá, kết hợp thành "đá Lăn".|Gô rô ô n, được ghép từ gô rô n gô rô n nghĩa là lăn lông lốc, và s tô nê là hòn đá, kết hợp thành đá Lăn.
+#076|golonya - goroonya (ゴローニャ)|golem|kanto|Go-ro-o-nya, từ "goron-goron" nghĩa là lăn lông lốc, kết hợp thành "núi Lăn".|Gô rô ô nya, từ gô rô n gô rô n nghĩa là lăn lông lốc, kết hợp thành núi Lăn.
+#077|ponyta - poniita (ポニータ)|ponyta|kanto|Po-ni-i-ta, từ "pony" nghĩa là ngựa lùn, kết hợp thành "ngựa Xinh Đẹp".|Pô ni i ta, từ pô ny nghĩa là ngựa lùn, kết hợp thành ngựa xi n h Đẹp.
+#078|gallop - gyaroppu (ギャロップ)|rapidash|kanto|Gya-ro-p-pu, từ "gallop" nghĩa là phi nước đại, kết hợp thành "ngựa Phi".|Gya rô p pu, từ ga ga lo p nghĩa là phi nước đại, kết hợp thành ngựa p hi.
+#079|yadon - yadon (ヤドン)|slowpoke|kanto|Ya-đo-n, được ghép từ "yadokari" nghĩa là ốc mượn hồn, và "yadonushi" là vật chủ ký sinh, khi kết hợp lại nghe giống rút gọn của Yadoran.|Gia đo n, được ghép từ gia đô ca ri nghĩa là ốc mượn hồn, và gia đô nu si là vật chủ ký sinh, khi kết hợp lại nghe giống rút gọn của gia đô ra n.
+#080|yadoran - yadoran (ヤドラン)|slowbro|kanto|Ya-đo-ra-n, được ghép từ "yadokari" nghĩa là ốc mượn hồn, và "yadonushi" là vật chủ ký sinh, khi kết hợp lại nghe giống tên Yadoran được đặt theo tên của cố ca sĩ - nhạc sĩ người Nam Tư, Jadranka Stojaković ....|Gia đo ra n, được ghép từ gia đô ca ri nghĩa là ốc mượn hồn, và gia đô nu si là vật chủ ký sinh, khi kết hợp lại nghe giống tên gia đô ra n được đặt theo tên của cố ca sĩ - nhạc sĩ người na m Tư, gia d ra n ca Stojaković ....
+#081|coil - koiru (コイル)|magnemite|kanto|Ko-i-ru, kết hợp thành "cuộn Cảm", Cuộn cảm (electromagnetic coil - là một linh kiện điện tử dùng để tích trữ năng lượng dưới dạng từ trường khi có dòng....|Cô i ru, kết hợp thành cuộn Cảm, Cuộn cảm (electromagnetic coil - là một linh kiện điện tử dùng để tích trữ năng lượng dưới dạng từ trường khi có dòng....
+#082|rarecoil - reakoiru (レアコイル)|magneton|kanto|Re-a-ko-i-ru, được ghép từ "rare" nghĩa là hiếm, và "coil" là cuộn cảm, kết hợp thành "cuộn Cảm Hiếm".|Rê a cô i ru, được ghép từ ra rê nghĩa là hiếm, và co i l là cuộn cảm, kết hợp thành cuộn Cảm Hiếm.
+#083|kamonegi - kamonegi (カモネギ)|farfetchd|kanto|Ka-mo-ne-gi, được ghép từ "kamo" nghĩa là vịt trời, và "negi" là hành barô, khi kết hợp lại nghe giống Tên Kamonegi được lấy nguyên văn từ thành ngữ "Kamo ga negi wo shottekuru" (鴨が葱を背負って来る ....|Ca mô nê ghi, được ghép từ ca mô nghĩa là vịt trời, và nê ghi là hành barô, khi kết hợp lại nghe giống Tên ca mô nê ghi được lấy nguyên văn từ thành ngữ ca mô ga negi wo shottekuru (鴨が葱を背負って来る ....
+#084|dodo - doodoo (ドードー)|doduo|kanto|Đo-o-đo-o, kết hợp thành "chim Dodo", Chim dodo là một loài chim ăn hạt cỡ lớn, không biết bay và đã bị tuyệt chủng.|Đo ô đo ô, kết hợp thành chim đô đô, chi m dodo là một loài chim ăn hạt cỡ lớn, không biết bay và đã bị tuyệt chủng.
+#085|dodorio - doodorio (ドードリオ)|dodrio|kanto|Đo-o-đo-ri-o, được ghép từ "dodo" nghĩa là chim dodo, và "trio" là bộ ba, kết hợp thành "bộ Ba Dodo".|Đo ô đo ri ô, được ghép từ đô đô nghĩa là chim dodo, và t ri ô là bộ ba, kết hợp thành bộ Ba đô đô.
+#086|pawou - pauwau (パウワウ)|seel|kanto|Pa-u-wa-u, từ "auau" nghĩa là áu áu, kết hợp thành "hải Cẩu".|Pa u oa u, từ au au nghĩa là áu áu, kết hợp thành hải Cẩu.
+#087|jugon - jugon (ジュゴン)|dewgong|kanto|Ju-go-n, kết hợp thành "cá Cúi", Cá cúi là một loài động vật có vú ăn thực vật sống ở biển, thuộc họ bò biển.|Giu gô n, kết hợp thành cá Cúi, Cá cúi là một loài động vật có vú ăn thực vật sống ở biển, thuộc họ bò biển.
+#088|betbeter - betobetaa (ベトベター)|grimer|kanto|Be-to-be-ta-a, được ghép từ "betobeto" nghĩa là nhơn nhớt, và "betabeta" là bết dính, kết hợp thành "quái Nhờn Nhợt".|Bê tô bê ta a, được ghép từ bê tô bê tô nghĩa là nhơn nhớt, và bê ta bê ta là bết dính, kết hợp thành quái Nhờn Nhợt.
+#089|betbeton - betobeton (ベトベトン)|muk|kanto|Be-to-be-to-n, được ghép từ "betobeto" nghĩa là nhơn nhớt, và "ton" là tấn, kết hợp thành "thú Nhờn Nhợt".|Bê tô bê tô n, được ghép từ bê tô bê tô nghĩa là nhơn nhớt, và tô n là tấn, kết hợp thành thú Nhờn Nhợt.
+#090|shellder - sherudaa (シェルダー)|shellder|kanto|S-he-ru-đa-a, được ghép từ "shell" nghĩa là vỏ sò, và "shelter" là nơi trú ẩn, kết hợp thành "sò Trú Ẩn".|S hê ru đa a, được ghép từ s hê hê l nghĩa là vỏ sò, và s hê l tê r là nơi trú ẩn, kết hợp thành sò Trú Ẩn.
+#091|parshen - parushen (パルシェン)|cloyster|kanto|Pa-ru-s-he-n, được ghép từ "pearl" nghĩa là ngọc trai, và "shell" là vỏ, mai, mai rùa, kết hợp thành "vỏ Ngọc Trai".|Pa ru s hê n, được ghép từ pê a r l nghĩa là ngọc trai, và s hê hê l là vỏ, mai, mai rùa, kết hợp thành vỏ Ngọc t ra i.
+#092|ghos - goosu (ゴース)|gastly|kanto|Go-o-su, được ghép từ "ghost" nghĩa là ma, và "gas" là thể khí, kết hợp thành "linh Khí".|Gô ô su, được ghép từ g hô s t nghĩa là ma, và ga s là thể khí, kết hợp thành linh Khí.
+#093|ghost - goosuto (ゴースト)|haunter|kanto|Go-o-su-to, từ "ghost" nghĩa là ma, kết hợp thành "u Linh".|Gô ô su tô, từ g hô s t nghĩa là ma, kết hợp thành u li n h.
+#094|gengar - gengaa (ゲンガー)|gengar|kanto|Ge-n-ga-a, từ "gen" nghĩa là ảo ảnh, kết hợp thành "song Trùng".|Ghê n ga a, từ ghê n nghĩa là ảo ảnh, kết hợp thành song Trùng.
+#095|iwark - iwaaku (イワーク)|onix|kanto|I-wa-a-ku, được ghép từ "iwa" nghĩa là đá, và "bulwark" là thành lũy, kết hợp thành "rắn Đá".|I oa a cu, được ghép từ i oa nghĩa là đá, và bu l oa r k là thành lũy, kết hợp thành rắn Đá.
+#096|sleep - suriipu (スリープ)|drowzee|kanto|Su-ri-i-pu, từ "sleep" nghĩa là giấc ngủ, kết hợp thành "bé Gây Ngủ".|Su ri i pu, từ s le ê p nghĩa là giấc ngủ, kết hợp thành bé Gây Ngủ.
+#097|sleeper - suriipaa (スリーパー)|hypno|kanto|Su-ri-i-pa-a, từ "sleeper" nghĩa là người đang ngủ, kết hợp thành "kẻ Ngủ Gật".|Su ri i pa a, từ s le ê pê r nghĩa là người đang ngủ, kết hợp thành kẻ Ngủ Gật.
+#098|crab - kurabu (クラブ)|krabby|kanto|Ku-ra-bu, kết hợp thành "cua".|Cu ra bu, kết hợp thành cu a.
+#099|kingler - kinguraa (キングラー)|kingler|kanto|Ki-n-gu-ra-a, kết hợp thành "cua Hoàng Đế", Cua hoàng đế.|Ki n gu ra a, kết hợp thành cua Hoàng Đế, cu a hoàng đế.
+#100|biriridama - biriridama (ビリリダマ)|voltorb|kanto|Bi-ri-ri-đa-ma, được ghép từ "biribiri" nghĩa là giật điện, và "tama" là quả cầu, kết hợp thành "cầu Điện Giật".|Bi ri ri đa ma, được ghép từ bi ri bi ri nghĩa là giật điện, và ta ma là quả cầu, kết hợp thành cầu Điện Giật.
+#101|marumine - marumain (マルマイン)|electrode|kanto|Ma-ru-ma-i-n, được ghép từ "maru" nghĩa là hình tròn, và "mine" là mìn, kết hợp thành "mìn Tròn".|Ma ru ma i n, được ghép từ ma ru nghĩa là hình tròn, và mi nê là mìn, kết hợp thành mìn Tròn.
+#102|tamatama - tamatama (タマタマ)|exeggcute|kanto|Ta-ma-ta-ma, được ghép từ "tama" nghĩa là quả cầu, và "tamago" là quả trứng, khi kết hợp lại nghe giống Tamatama còn có nghĩa là "tình cờ, ngẫu nhiên", ám chỉ loài Pokémon này gồm 6 cá thể ri....|Ta ma ta ma, được ghép từ ta ma nghĩa là quả cầu, và ta ma gô là quả trứng, khi kết hợp lại nghe giống ta ma ta ma còn có nghĩa là tình cờ, ngẫu nhiên, ám chỉ loài Pokémon này gồm 6 cá thể ri....
+#103|nasshi - nasshii (ナッシー)|exeggutor|kanto|Na-s-shi-i, được ghép từ "coconuts" nghĩa là quả dừa, và "yashi" là cây cọ, kết hợp thành "cây Dừa".|Na s si i, được ghép từ co co nu t s nghĩa là quả dừa, và gia si là cây cọ, kết hợp thành cây Dừa.
+#104|karakara - karakara (カラカラ)|cubone|kanto|Ka-ra-ka-ra, từ "karakara" nghĩa là lách cách, kết hợp thành "thú Lách Cách".|Ca ra ca ra, từ ca ra ca ra nghĩa là lách cách, kết hợp thành thú Lách Cách.
+#105|garagara - garagara (ガラガラ)|marowak|kanto|Ga-ra-ga-ra, được ghép từ "garagara" nghĩa là lạch cạch, và "gara" là xương cốt, kết hợp thành "xương Lạch Cạch".|Ga ra ga ra, được ghép từ ga ra ga ra nghĩa là lạch cạch, và ga ra là xương cốt, kết hợp thành xương Lạch Cạch.
+#106|sawamular - sawamuraa (サワムラー)|hitmonlee|kanto|Sa-wa-mu-ra-a, kết hợp thành "vua Tung Cước", Tên Sawamular lấy cảm hứng từ họ của võ sĩ Kickboxing người Nhật Bản, Tadashi Sawamura (沢村忠), người được mệnh danh là....|Sa oa mu ra a, kết hợp thành vua tu n g Cước, Tên sa oa mu la r lấy cảm hứng từ họ của võ sĩ ki c k bô xi n g người Nhật Bản, ta đa si sa oa mu ra (沢村忠), người được mệnh danh là....
+#107|ebiwalar - ebiwaraa (エビワラー)|hitmonchan|kanto|E-bi-wa-ra-a, kết hợp thành "vua Đấm Móc", Tên Ebiwalar lấy cảm hứng từ họ của võ sĩ quyền Anh người Nhật Bản, Hiroyuki Ebihara (海老原博幸), người từng giữ chức vô ....|Ê bi oa ra a, kết hợp thành vua Đấm Móc, Tên ê bi oa la r lấy cảm hứng từ họ của võ sĩ quyền a n h người Nhật Bản, hi rô giu ki ê bi ha ra (海老原博幸), người từng giữ chức vô ....
+#108|beroringa - beroringa (ベロリンガ)|lickitung|kanto|Be-ro-ri-n-ga, được ghép từ "bero" nghĩa là lưỡi, và "berori" là liếm láp, kết hợp thành "thú Lưỡi Dài".|Bê rô ri n ga, được ghép từ bê rô nghĩa là lưỡi, và bê rô ri là liếm láp, kết hợp thành thú Lưỡi Dài.
+#109|dogars - dogaasu (ドガース)|koffing|kanto|Đo-ga-a-su, kết hợp thành "khí Độc", Khí độc.|Đo ga a su, kết hợp thành khí Độc, Khí độc.
+#110|matadogas - matadogasu (マタドガス)|weezing|kanto|Ma-ta-đo-ga-su, từ "mata" nghĩa là lần nữa, đôi, kết hợp thành "song Khí Độc".|Ma ta đo ga su, từ ma ta nghĩa là lần nữa, đôi, kết hợp thành song Khí Độc.
+#111|saihorn - saihoon (サイホーン)|rhyhorn|kanto|Sa-i-ho-o-n, được ghép từ "sai" nghĩa là tê giác, và "horn" là sừng, kết hợp thành "tê Giác Sừng Dài".|Sa i hô ô n, được ghép từ sa i nghĩa là tê giác, và hô r n là sừng, kết hợp thành tê Giác Sừng Dài.
+#112|saidon - saidon (サイドン)|rhydon|kanto|Sa-i-đo-n, từ "sai" nghĩa là tê giác, kết hợp thành "chúa Tể Tê Giác".|Sa i đo n, từ sa i nghĩa là tê giác, kết hợp thành chúa Tể Tê Giác.
+#113|lucky - rakkii (ラッキー)|chansey|kanto|Ra-k-ki-i, từ "lucky" nghĩa là may mắn, kết hợp thành "trứng May Mắn".|Ra k ki i, từ lu c ky nghĩa là may mắn, kết hợp thành trứng ma y Mắn.
+#114|monjara - monjara (モンジャラ)|tangela|kanto|Mo-n-ja-ra, được ghép từ "monster" nghĩa là quái vật, và "mojamoja" là đầu bù xù, kết hợp thành "quái Vật Bù Xù".|Mô n gia ra, được ghép từ mô n s tê r nghĩa là quái vật, và mô gia mô gia là đầu bù xù, kết hợp thành quái Vật Bù Xù.
+#115|garura - garuura (ガルーラ)|kangaskhan|kanto|Ga-ru-u-ra, được ghép từ "kangaroo" nghĩa là chuột túi, và "ruler" là kẻ thống trị, kết hợp thành "chúa Tể Chuột Túi".|Ga ru u ra, được ghép từ ca n ga rô ô nghĩa là chuột túi, và ru le r là kẻ thống trị, kết hợp thành chúa Tể Chuột Túi.
+#116|tattsuu - tattsuu (タッツー)|horsea|kanto|Ta-t-tsu-u, từ "tatsu" nghĩa là rồng, kết hợp thành "cá Ngựa".|Ta t xu u, từ ta xu nghĩa là rồng, kết hợp thành cá Ngựa.
+#117|seadra - shiidora (シードラ)|seadra|kanto|Shi-i-đo-ra, kết hợp thành "rồng Biển".|Si i đo ra, kết hợp thành rồng Biển.
+#118|tosakinto - tosakinto (トサキント)|goldeen|kanto|To-sa-ki-n-to, được ghép từ "tosakin" nghĩa là cá vàng đuôi xoăn, và "kintoto" là cá vàng, kết hợp thành "cá Vàng Đuôi Xoăn".|Tô sa ki n tô, được ghép từ tô sa ki n nghĩa là cá vàng đuôi xoăn, và ki n tô tô là cá vàng, kết hợp thành cá Vàng Đuôi Xoăn.
+#119|azumaou - azumaou (アズマオウ)|seaking|kanto|A-zu-ma-ou, được ghép từ "azuma" nghĩa là cá vàng azuma nishiki, và "ou" là vua, kết hợp thành "vua Cá Vàng".|A zu ma ou, được ghép từ a zu ma nghĩa là cá vàng azuma nishiki, và ou là vua, kết hợp thành vua Cá Vàng.
+#120|hitodeman - hitodeman (ヒトデマン)|staryu|kanto|Hi-to-đe-ma-n, được ghép từ "hitode" nghĩa là sao biển, và "man" là người, kết hợp thành "người Sao Biển".|Hi tô đe ma n, được ghép từ hi tô đê nghĩa là sao biển, và ma n là người, kết hợp thành người sa ô Biển.
+#121|starmie - sutaamii (スターミー)|starmie|kanto|Sa-ta-a-mi-i, được ghép từ "star" nghĩa là ngôi sao, và "mystery" là bí ẩn, khi kết hợp lại nghe giống Starmie là chơi chữ "Star + me", đối lập với tên tiếng Anh Staryu của dạng....|Sa ta a mi i, được ghép từ s ta r nghĩa là ngôi sao, và my s tê ry là bí ẩn, khi kết hợp lại nghe giống s ta r mi ê là chơi chữ s ta r + me, đối lập với tên tiếng a n h s ta ryu của dạng....
+#122|bariyaado - bariyaado (バリヤード)|mr-mime|kanto|Ba-ri-ya-a-đo, được ghép từ "barrier" nghĩa là rào chắn, và "weird" là kỳ quặc, khi kết hợp lại nghe giống tên thể hiện sự kết hợp giữa nghệ sĩ kịch câm và năng lực tạo tường vô hình của Pokémon....|Ba ri gia a đo, được ghép từ ba ba ri ê r nghĩa là rào chắn, và we i r d là kỳ quặc, khi kết hợp lại nghe giống tên thể hiện sự kết hợp giữa nghệ sĩ kịch câm và năng lực tạo tường vô hình của Pokémon....
+#123|strike - sutoraiku (ストライク)|scyther|kanto|Su-to-ra-i-ku, từ "strike" nghĩa là tấn công, kết hợp thành "bọ Lưỡi Liềm".|Su tô ra i cu, từ s t ri kê nghĩa là tấn công, kết hợp thành bọ Lưỡi Liềm.
+#124|rougela - ruujura (ルージュラ)|jynx|kanto|Ru-u-ju-ra, kết hợp thành "son Môi Băng Giá", Son môi + Đóng băng + Điệu nhảy Hula ở Hawaii.|Ru u giu ra, kết hợp thành son Môi Băng Giá, sô n môi + Đóng băng + Điệu nhảy hu la ở ha oa ii.
+#125|eleboo - erebuu (エレブー)|electabuzz|kanto|E-re-bu-u, được ghép từ "electric" nghĩa là điện, và "bunbun" là bụp bụp, kết hợp thành "quái Thú Điện Giật".|Ê rê bu u, được ghép từ ê le c t ri c nghĩa là điện, và bu n bu n là bụp bụp, kết hợp thành quái Thú Điện Giật.
+#126|booba - buubaa (ブーバー)|magmar|kanto|Bu-u-ba-a, được ghép từ "booby" nghĩa là chim điên, và "boost" là tăng tốc, kết hợp thành "chim Điên Rực Lửa".|Bu u ba a, được ghép từ bô ô by nghĩa là chim điên, và bô ô s t là tăng tốc, kết hợp thành chim Điên Rực Lửa.
+#127|kailios - kairosu (カイロス)|pinsir|kanto|Ka-i-ro-su, từ "kai" nghĩa là cắt tỉa, kết hợp thành "bọ Sừng Kéo".|Ca i rô su, từ ca i nghĩa là cắt tỉa, kết hợp thành bọ Sừng Kéo.
+#128|kentauros - kentarosu (ケンタロス)|tauros|kanto|Ke-n-ta-ro-su, kết hợp thành "nhân Mã", Phiên âm từ sinh vật thần thoại Nhân Mã.|Kê n ta rô su, kết hợp thành nhân Mã, Phiên âm từ sinh vật thần thoại Nhân Mã.
+#129|koiking - koikingu (コイキング)|magikarp|kanto|Ko-i-ki-n-gu, được ghép từ "koi" nghĩa là cá chép, và "king" là vua, khi kết hợp lại nghe giống chơi chữ đồng âm với từ Kingyo.|Cô i ki n gu, được ghép từ cô i nghĩa là cá chép, và ki n g là vua, khi kết hợp lại nghe giống chơi chữ đồng âm với từ ki n gyo.
+#130|gyarados - gyaradosu (ギャラドス)|gyarados|kanto|Gya-ra-đo-su, được ghép từ "gyakusatsu" nghĩa là tàn sát, và "arasu" là làm loạn, kết hợp thành "cuồng Long Bạo Chúa".|Gya ra đo su, được ghép từ gya cu sa xu nghĩa là tàn sát, và a ra su là làm loạn, kết hợp thành cuồng lo n g Bạo Chúa.
+#131|laplace - rapurasu (ラプラス)|lapras|kanto|Ra-pu-ra-su, kết hợp thành "thú Chở Khách", Đặt theo tên nhà toán học Pierre-Simon Laplace, người nghiên cứu về thủy triều.|Ra pu ra su, kết hợp thành thú Chở Khách, Đặt theo tên nhà toán học pi ê ê rê-si mô n la p la ce, người nghiên cứu về thủy triều.
+#132|metamon - metamon (メタモン)|ditto|kanto|Me-ta-mo-n, từ "monster" nghĩa là quái vật, kết hợp thành "quái Vật Biến Hình".|Mê ta mô n, từ mô n s tê r nghĩa là quái vật, kết hợp thành quái Vật Biến Hình.
+#133|eievui - iibui (イーブイ)|eevee|kanto|Ii-bu-i, kết hợp thành "thú Tiến Hóa", Lấy từ hai chữ cái đầu tiên của từ Tiến hóa.|Ii bu i, kết hợp thành thú Tiến Hóa, Lấy từ hai chữ cái đầu tiên của từ Tiến hóa.
+#134|showers - shawaazu (シャワーズ)|vaporeon|kanto|Sha-wa-a-zu, từ "shower" nghĩa là mưa rào / vòi hoa sen, kết hợp thành "thú Mưa Rào".|Sa oa a zu, từ sô we r nghĩa là mưa rào / vòi hoa sen, kết hợp thành thú Mưa Rào.
+#135|thunders - sandaasu (サンダース)|jolteon|kanto|Sa-n-đa-a-zu, từ "thunder" nghĩa là sấm sét, kết hợp thành "thú Sấm Rền".|Sa n đa a zu, từ t hu n đê r nghĩa là sấm sét, kết hợp thành thú Sấm Rền.
+#136|booster - buusutaa (ブースター)|flareon|kanto|Bu-u-su-ta-a, từ "booster" nghĩa là thiết bị tăng áp, kết hợp thành "thú Rực Lửa".|Bu u su ta a, từ bô ô s tê r nghĩa là thiết bị tăng áp, kết hợp thành thú Rực Lửa.
+#137|porygon - porigon (ポリゴン)|porygon|kanto|Po-ri-go-n, từ "polygon" nghĩa là hình đa giác, kết hợp thành "đa Giác Nguyên Bản".|Pô ri gô n, từ pô ly gô n nghĩa là hình đa giác, kết hợp thành đa Giác Nguyên Bản.
+#138|omnite - omunaito (オムナイト)|omanyte|kanto|O-mu-na-i-to, được ghép từ "oumugai" nghĩa là ốc anh vũ, và "ammonite" là hóa thạch cúc đá, kết hợp thành "ốc Hóa Thạch".|Ô mu na i tô, được ghép từ ou mu ga i nghĩa là ốc anh vũ, và a a mô ni tê là hóa thạch cúc đá, kết hợp thành ốc Hóa Thạch.
+#139|omstar - omusutaa (オムスター)|omastar|kanto|O-m-s-ta-r, được ghép từ "oumugai" nghĩa là ốc anh vũ, và "star" là ngôi sao, kết hợp thành "ốc Tinh Tú".|Ô m s ta r, được ghép từ ou mu ga i nghĩa là ốc anh vũ, và s ta r là ngôi sao, kết hợp thành ốc ti n h Tú.
+#140|kabuto - kabuto (カブト)|kabuto|kanto|Ka-bu-to, được ghép từ "kabuto" nghĩa là mũ giáp, và "kabutogani" là con sam, kết hợp thành "sam Mũ Giáp".|Ca bu tô, được ghép từ ca bu tô nghĩa là mũ giáp, và ca bu tô ga ni là con sam, kết hợp thành sam Mũ Giáp.
+#141|kabutops - kabutopusu (カブトプス)|kabutops|kanto|Ka-bu-to-pu-su, được ghép từ "kabuto" nghĩa là mũ giáp, và "kabutogani" là con sam, kết hợp thành "sam Cổ Đại".|Ca bu tô pu su, được ghép từ ca bu tô nghĩa là mũ giáp, và ca bu tô ga ni là con sam, kết hợp thành sam Cổ Đại.
+#142|ptera - putera (プテラ)|aerodactyl|kanto|Pu-te-ra, từ "pteranodon" nghĩa là thằn lằn bay, kết hợp thành "dực Long Cổ Đại".|Pu tê ra, từ p tê ra nô đô n nghĩa là thằn lằn bay, kết hợp thành dực lo n g Cổ Đại.
+#143|kabigon - kabigon (カビゴン)|snorlax|kanto|Ka-bi-go-n, kết hợp thành "thú Phàm Ăn", Nhân vật Kirby + Hậu tố -gon thường thấy trong tên quái vật.|Ca bi gô n, kết hợp thành thú Phàm Ăn, Nhân vật ki r by + Hậu tố -gon thường thấy trong tên quái vật.
+#144|freezer - furiizaa (フリーザー)|articuno|kanto|Phu-ri-i-za-a, từ "freezer" nghĩa là máy cấp đông, kết hợp thành "chim Băng Giá".|Phu ri i za a, từ f rê ê dze r nghĩa là máy cấp đông, kết hợp thành chim Băng Giá.
+#145|thunder - sandaa (サンダー)|zapdos|kanto|Sa-n-đa-a, từ "thunder" nghĩa là sấm sét, kết hợp thành "chim Sấm Sét".|Sa n đa a, từ t hu n đê r nghĩa là sấm sét, kết hợp thành chim Sấm Sét.
+#146|fire - faiyaa (ファイヤー)|moltres|kanto|Pha-iy-aa, từ "fire" nghĩa là lửa, kết hợp thành "chim Rực Lửa".|Pha iy aa, từ phi rê nghĩa là lửa, kết hợp thành chim Rực Lửa.
+#147|miniryu - miniryuu (ミニリュウ)|dratini|kanto|Mi-ni-ryu-u, được ghép từ "mini" nghĩa là nhỏ bé, và "ryuu" là rồng, kết hợp thành "tiểu Long".|Mi ni ryu u, được ghép từ mi ni nghĩa là nhỏ bé, và ryu u là rồng, kết hợp thành tiểu lo n g.
+#148|hakuryu - hakuryuu (ハクリュー)|dragonair|kanto|Ha-ku-ryu-u, từ "hakuryuu" nghĩa là bạch long, kết hợp thành "bạch Long".|Ha cu ryu u, từ ha cu ryu u nghĩa là bạch long, kết hợp thành bạch lo n g.
+#149|kairyu - kairyuu (カイリュー)|dragonite|kanto|Ka-i-ryu-u, được ghép từ "kairyuu" nghĩa là hải long, và "kaijuu" là quái thú, kết hợp thành "hải Long".|Ca i ryu u, được ghép từ ca i ryu u nghĩa là hải long, và ca i giu u là quái thú, kết hợp thành hải lo n g.
+#150|mewtwo - myuutsuu (ミュウツー)|mewtwo|kanto|Myu-u-tsu-u, từ "two" nghĩa là số 2, kết hợp thành "mew Đệ Nhị".|Myu u xu u, từ t ô nghĩa là số 2, kết hợp thành mew Đệ Nhị.
+#151|mew - myuu (ミュウ)|mew|kanto|Myu-u, được ghép từ "mutant" nghĩa là dị thể đột biến, và "new" là mới, kết hợp thành "thú Đột Biến".|Myu u, được ghép từ mu ta n t nghĩa là dị thể đột biến, và nê w là mới, kết hợp thành thú Đột Biến.

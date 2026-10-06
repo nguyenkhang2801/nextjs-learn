@@ -9,11 +9,15 @@ import {
   TableRow,
 } from '@/component';
 import Image from 'next/image';
+import { MeanPlayButton } from './MeanPlayButton';
 
 type Pokemon = {
   number: string;
   nameJp: string;
   nameEn: string;
+  region: string;
+  mean: string;
+  speech: string;
   url: string;
 };
 
@@ -24,15 +28,19 @@ function parsePokemonCsv(content: string): Pokemon[] {
     .slice(1)
     .filter(Boolean)
     .map((line) => {
-      const firstComma = line.indexOf(',');
-      const lastComma = line.lastIndexOf(',');
+      const parts = line.split('|');
+      const [number, nameJp, nameEn, region = 'kanto', mean = '', speech = ''] =
+        parts.length >= 6
+          ? parts
+          : [...parts.slice(0, 5), ''];
       return {
-        number: line.slice(0, firstComma),
-        nameJp: line.slice(firstComma + 1, lastComma),
-        nameEn: line.slice(lastComma + 1),
-        url: `https://img.pokemondb.net/artwork/avif/${line.slice(
-          lastComma + 1,
-        )}.avif`,
+        number,
+        nameJp,
+        nameEn,
+        region,
+        mean,
+        speech: speech || mean,
+        url: `https://img.pokemondb.net/artwork/avif/${nameEn}.avif`,
       };
     });
 }
@@ -55,6 +63,9 @@ export default async function Name() {
             <TableHead className='w-[100px]'>Image</TableHead>
             <TableHead>Name (JP)</TableHead>
             <TableHead>Name (EN)</TableHead>
+            <TableHead>Region</TableHead>
+            <TableHead>Mean</TableHead>
+            <TableHead className='w-[56px]'>Play</TableHead>
           </TableRow>
         </TableHeader>
         <TableBody>
@@ -72,6 +83,13 @@ export default async function Name() {
               </TableCell>
               <TableCell>{row.nameJp}</TableCell>
               <TableCell>{row.nameEn}</TableCell>
+              <TableCell>{row.region}</TableCell>
+              <TableCell className='max-w-md text-sm whitespace-normal'>
+                {row.mean}
+              </TableCell>
+              <TableCell>
+                <MeanPlayButton text={row.speech} label={row.nameEn} />
+              </TableCell>
             </TableRow>
           ))}
         </TableBody>
