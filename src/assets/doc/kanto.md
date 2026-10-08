@@ -1236,8 +1236,9 @@
 
 🪨𝟎𝟏𝟑𝟗: 𝐎𝐦𝐬𝐭𝐚𝐫
 
-- Phiên âm: Omusutaa オムスター
-  ✦ Hệ: Đá - Nước
+✦ Phiên âm: Omusutaa オムスター
+✦ Hệ: Đá - Nước
+
 - Đen: Ốc Tinh Tú ➜ Ốc anh vũ (oumugai) + Ngôi sao (star)
 
 ✨Tiến Hóa: 𝐎𝐦𝐧𝐢𝐭𝐞 ➜ 𝐎𝐦𝐬𝐭𝐚𝐫

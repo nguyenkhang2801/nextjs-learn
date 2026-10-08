@@ -14,6 +14,15 @@ CSV_OUT = ROOT / "src/assets/name/pokemon.csv"
 
 DIGIT_MAP = str.maketrans("𝟎𝟏𝟐𝟑𝟒𝟓𝟔𝟕𝟖𝟗", "0123456789")
 
+SEP = "-"        # đổi thành " " nếu muốn tách bằng dấu cách như skill phiên âm
+Z_ONSET = "d"    # za/zu/ze/zo -> da/du/dê/dô (đổi thành "gi" nếu muốn đọc kiểu "gia")
+
+_MORA = re.compile(r"(?:ky|gy|ny|hy|my|ry|by|py|sh|ch|ts|[kgsztdnhbpmyrwfjc])?[aeiou]")
+_PARSE = re.compile(r"^(ky|gy|ny|hy|my|ry|by|py|sh|ch|ts|[kgsztdnhbpmyrwfjc]?)([aeiou]+)(.*)$")
+_DIPHTHONG = {"ai", "au", "oi", "ui"}
+_VOWEL = {"e": "ê", "o": "ô"}
+_CODA = {"k": "c"}
+
 
 def normalize_digits(s: str) -> str:
     return s.translate(DIGIT_MAP)
@@ -23,73 +32,95 @@ def nfkc(s: str) -> str:
     return unicodedata.normalize("NFKC", s)
 
 
+def _onset(on: str, v: str) -> str:
+    soft = v[0] in "ie"
+    if on in ("k", "c"):
+        return "k" if soft else "c"
+    if on == "g":
+        return "gh" if soft else "g"
+    if on in ("s", "sh"):
+        return "s"
+    if on == "z":
+        return Z_ONSET
+    if on in ("j", "y"):
+        return "gi"
+    if on == "ts":
+        return "x"
+    if on == "d":
+        return "đ"
+    if on == "f":
+        return "ph"
+    return on  # t, ch, n, h, b, p, m, r
+
+
+def _map_syl(s: str) -> str:
+    m = _PARSE.match(s)
+    if not m:
+        return s
+    on, v, coda = m.groups()
+
+    if on == "w":                       # wa -> oa, wo -> ô, còn lại -> u + nguyên âm
+        on, v = ("", "oa") if v == "a" else ("", "o") if v == "o" else ("u", v)
+        out_on = on
+    elif len(on) == 2 and on[1] == "y":  # kya -> kia, gyu -> ghiu, ryo -> riô
+        out_on = _onset(on[0], "i")
+        v = "i" + v
+    else:
+        out_on = _onset(on, v) if on else ""
+
+    if out_on.endswith("i") and v.startswith("i"):  # ji -> gi (không phải gii)
+        v = v[1:]
+
+    v = "".join(_VOWEL.get(ch, ch) for ch in v)
+    coda = "".join(_CODA.get(ch, ch) for ch in coda)
+    return out_on + v + coda
+
+
 def to_vi_read(romaji: str) -> str:
-    r = romaji.lower().strip()
-    r = re.sub(r"[^a-z]", "", r)
+    r = re.sub(r"[^a-z]", "", romaji.lower().strip())
     if not r:
         return romaji
 
-    digraphs = [
-        "kya",
-        "kyu",
-        "kyo",
-        "gya",
-        "gyu",
-        "gyo",
-        "sha",
-        "shu",
-        "sho",
-        "cha",
-        "chu",
-        "cho",
-        "nya",
-        "nyu",
-        "nyo",
-        "hya",
-        "hyu",
-        "hyo",
-        "mya",
-        "myu",
-        "myo",
-        "rya",
-        "ryu",
-        "ryo",
-        "shi",
-        "chi",
-        "tsu",
-        "fu",
-        "ja",
-        "ju",
-        "jo",
-    ]
+    # Nguyên âm dài -> nguyên âm đơn
+    r = re.sub(r"aa+", "a", r)
+    r = re.sub(r"ii+", "i", r)
+    r = re.sub(r"uu+", "u", r)
+    r = re.sub(r"ee+", "e", r)
+    r = re.sub(r"oo+", "o", r)
+    r = r.replace("ou", "o").replace("ei", "e")
+    r = r.replace("tch", "cch")
+
+    vowels = "aeiou"
     syllables: list[str] = []
     i = 0
     while i < len(r):
-        matched = None
-        for d in digraphs:
-            if r.startswith(d, i):
-                matched = d
-                break
-        if matched:
-            syllables.append(matched)
-            i += len(matched)
-            continue
-        if i + 1 < len(r) and r[i + 1] in "aeiouy":
-            syllables.append(r[i : i + 2])
-            i += 2
-        else:
-            syllables.append(r[i])
+        c = r[i]
+
+        # Phụ âm đôi: kappa -> kap-pa
+        if c not in vowels and c != "n" and i + 1 < len(r) and r[i + 1] == c:
+            if syllables:
+                syllables[-1] += c
             i += 1
+            continue
 
-    def map_syl(s: str) -> str:
-        s = s.replace("fu", "phu").replace("fa", "pha").replace("fi", "phi")
-        s = s.replace("fe", "phe").replace("fo", "pho")
-        s = s.replace("da", "đa").replace("de", "đe").replace("di", "đi").replace("do", "đo")
-        s = s.replace("du", "đu")
-        return s
+        m = _MORA.match(r, i)
+        if m:
+            syl = m.group()
+            i = m.end()
+            if syl in vowels and syllables and (syllables[-1][-1] + syl) in _DIPHTHONG:
+                syllables[-1] += syl
+            else:
+                syllables.append(syl)
+            continue
 
-    out = [map_syl(s) for s in syllables if s]
-    joined = "-".join(p.lower() for p in out)
+        # "n" đứng riêng: dính vào âm tiết trước
+        if c == "n" and syllables:
+            syllables[-1] += c
+        else:
+            syllables.append(c)
+        i += 1
+
+    joined = SEP.join(_map_syl(s) for s in syllables if s)
     return joined[0].upper() + joined[1:] if joined else romaji
 
 
@@ -139,6 +170,11 @@ def den_literal(line: str) -> tuple[str, str]:
         return left.replace("- Đen:", "").strip(), right.strip()
     return line.replace("- Đen:", "").strip(), ""
 
+def join_parts(parts: list[tuple[str, str]]) -> str:
+    items = [f'"{w}" nghĩa là {m}' if i == 0 else f'"{w}" là {m}' for i, (w, m) in enumerate(parts)]
+    if len(items) == 1:
+        return items[0]
+    return ", ".join(items[:-1]) + ", và " + items[-1]
 
 def build_mean(romaji: str, den_line: str, bong_line: str | None) -> str:
     literal, detail = den_literal(den_line)
@@ -147,45 +183,32 @@ def build_mean(romaji: str, den_line: str, bong_line: str | None) -> str:
     bong = (bong_line or "").replace("- Bóng:", "").strip() if bong_line else ""
     quoted = extract_quoted_bong(bong) if bong else None
 
-    lit_lower = literal[0].lower() + literal[1:] if literal else literal
+    lit_lower = literal if literal else literal
 
     if len(parts) >= 2:
-        w1, m1 = parts[0]
-        w2, m2 = parts[1]
+        head = f"{vi}, được ghép từ {join_parts(parts)}"
         if quoted:
-            return (
-                f'{vi}, được ghép từ "{w1}" nghĩa là {m1}, và "{w2}" là {m2}, '
-                f'khi kết hợp lại nghe giống một câu "{quoted}".'
-            )
-        if bong and not quoted:
-            short = re.sub(r"\s+", " ", bong).strip()
-            if len(short) > 90:
-                short = short[:87] + "..."
-            return (
-                f'{vi}, được ghép từ "{w1}" nghĩa là {m1}, và "{w2}" là {m2}, '
-                f"khi kết hợp lại nghe giống {short}."
-            )
-        return (
-            f'{vi}, được ghép từ "{w1}" nghĩa là {m1}, và "{w2}" là {m2}, '
-            f'kết hợp thành "{lit_lower}".'
-        )
+            return f'{head}, khi kết hợp lại nghe giống câu "{quoted}".'
+        if bong:
+            bong_text = re.sub(r"\s+", " ", bong).strip()
+            bong_text = bong_text[:1].lower() + bong_text[1:]
+            return f'{head}, kết hợp thành "{lit_lower}", ngoài ra còn là {bong_text}.'
+        return f'{head}, kết hợp thành "{lit_lower}".'
 
     if len(parts) == 1:
         w1, m1 = parts[0]
         if quoted:
             return (
                 f'{vi}, từ "{w1}" nghĩa là {m1}, '
-                f'khi kết hợp lại nghe giống một câu "{quoted}".'
+                f'khi kết hợp lại nghe giống câu "{quoted}".'
             )
-        return f'{vi}, từ "{w1}" nghĩa là {m1}, kết hợp thành "{lit_lower}".'
+        return f'{vi}, từ "{w1}" nghĩa là {m1}, hay có thể hiểu là "{lit_lower}".'
 
     # Fallback: one short sentence from file, no invented bóng
-    detail_short = re.sub(r"\s+", " ", detail)
-    if len(detail_short) > 120:
-        detail_short = detail_short[:117] + "..."
-    if detail_short:
-        return f'{vi}, kết hợp thành "{lit_lower}", {detail_short}.'
-    return f'{vi}, kết hợp thành "{lit_lower}".'
+    detail_text = re.sub(r"\s+", " ", detail).strip()
+    if detail_text:
+        return f'{vi}, có nghĩa là "{lit_lower}", {detail_text}.'
+    return f'{vi}, nghĩa là "{lit_lower}".'
 
 
 def parse_kanto(path: Path) -> dict[int, dict]:

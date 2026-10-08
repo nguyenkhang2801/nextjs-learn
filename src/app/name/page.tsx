@@ -30,9 +30,7 @@ function parsePokemonCsv(content: string): Pokemon[] {
     .map((line) => {
       const parts = line.split('|');
       const [number, nameJp, nameEn, region = 'kanto', mean = '', speech = ''] =
-        parts.length >= 6
-          ? parts
-          : [...parts.slice(0, 5), ''];
+        parts.length >= 6 ? parts : [...parts.slice(0, 5), ''];
       return {
         number,
         nameJp,
@@ -78,7 +76,7 @@ export default async function Name() {
                   alt={row.nameJp}
                   width={100}
                   height={100}
-                  className='aspect-square object-contain'
+                  className='aspect-square object-contain bg-white'
                 />
               </TableCell>
               <TableCell>{row.nameJp}</TableCell>
