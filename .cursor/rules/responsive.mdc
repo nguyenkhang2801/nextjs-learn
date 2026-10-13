@@ -1,0 +1,22 @@
+---
+description: Mobile-first responsive cho UI Next.js + Tailwind
+globs: src/**/*.{tsx,scss}
+alwaysApply: false
+---
+
+# Responsive (mobile-first)
+
+- Default styles = điện thoại; mở rộng với `sm:` (≥640px), `md:` (≥768px), `lg:` (≥1024px).
+- Tránh `min-w-[800px]` hoặc chiều cao cố định `100vh`; dùng `min-h-[calc(100dvh-…)]`, `overflow-auto`.
+- Bảng nhiều cột: card/list dưới `md`, `<table>` từ `md` trở lên; giữ `overflow-x-auto` trên wrapper bảng.
+- Nút và link chính: `min-h-9`–`min-h-11` (~36–44px); CTA full width trên mobile (`w-full sm:w-auto`).
+- Ảnh: `max-w-full`, kích thước responsive (`w-16 md:w-[100px]`), không tràn viewport.
+
+```tsx
+// ❌ Chỉ bảng 7 cột trên mọi breakpoint
+<Table>...</Table>
+
+// ✅ Card mobile + bảng tablet/desktop
+<div className="md:hidden">{items.map(...card)}</div>
+<div className="hidden md:block overflow-x-auto"><Table>...</Table></div>
+```

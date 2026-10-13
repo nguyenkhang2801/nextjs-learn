@@ -30,7 +30,7 @@ ENGLISH_READ = {
     "simon": "Sai mờn",
     "laplace": "lạp lạc",
     "fire": "Phai ơ",
-    "mutant": "Miu tần"
+    "mutant": "Miu tần",
 }
 
 # Sửa lỗi gõ trong dữ liệu nguồn: từ sai -> romaji đúng

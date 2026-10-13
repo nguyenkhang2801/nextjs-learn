@@ -115,7 +115,7 @@ export function MeanPlayButton({ text, label }: MeanPlayButtonProps) {
       aria-label={playing ? `Dừng đọc nghĩa ${label}` : `Đọc nghĩa ${label}`}
       aria-pressed={playing}
       className={cn(
-        'inline-flex h-9 w-9 items-center justify-center rounded-md border border-border bg-background text-foreground transition-colors',
+        'inline-flex h-9 w-9 min-w-[36px] items-center justify-center rounded-md border border-border bg-background text-foreground transition-colors',
         'hover:bg-muted focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring',
         'disabled:pointer-events-none disabled:opacity-40',
         playing && 'bg-muted',

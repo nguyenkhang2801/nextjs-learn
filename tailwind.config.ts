@@ -14,6 +14,9 @@ const config: Config = {
         background: 'var(--background)',
         foreground: 'var(--foreground)',
       },
+      fontFamily: {
+        sans: ['var(--font-noto-sans)', 'sans-serif'],
+      },
     },
   },
   plugins: [],
